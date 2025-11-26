@@ -1,7 +1,7 @@
 <!-- Header -->
-<h1 align="left">👋 Olá, eu sou o José Felipe</h1>
+<h1 align="left">👋 Olá, eu sou  José Felipe</h1>
 <p align="left">
-  <img src="PROFILE_PICTURE_URL" alt="foto" width="96" style="border-radius:50%">
+  <img src="C:\Users\Felipe\Pictures\Captura de tela 2025-11-26 182407.png" alt="foto" width="96" style="border-radius:50%">
   <br>
   <strong>Desenvolvedor Web • Front-end • Estudante de Java e C</strong>
 </p>
