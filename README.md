@@ -16,10 +16,10 @@ Gosto de projetos limpos, código bem documentado e desafios novos.
 
 ## Conecte-se:
 <p>
-  <a href="www.linkedin.com/in/jose-felipe-silva-811020342" target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-felipe-silva-811020342" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/FelpsSds" target="_blank">
+  <a href="https://github.com/FelpsSdS" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
