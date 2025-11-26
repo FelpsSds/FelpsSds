@@ -16,7 +16,7 @@ Gosto de projetos limpos, código bem documentado e desafios novos.
 
 ## Conecte-se:
 <p>
-  <a href="www.linkedin.com/in/josé-felipe-silva-811020342" target="_blank">
+  <a href="www.linkedin.com/in/jose-felipe-silva-811020342" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/FelpsSds" target="_blank">
