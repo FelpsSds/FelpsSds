@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="left">👋 Olá, eu sou  José Felipe</h1>
+<h1 align="left">Olá, eu sou  José Felipe</h1>
 <p align="left">
   
   <strong>Desenvolvedor Web • Front-end • Estudante de Java e C</strong>
