@@ -48,7 +48,7 @@ Gosto de projetos limpos, código bem documentado e desafios novos.
 
 ## Projetos em destaque
 - [BioScan](https://github.com/FelpsSds/BioScan.git)
-- [Projeto-X](https://github.com/FelpsSds/API-Gemini.git)
+- [Gemini Api](https://github.com/FelpsSds/API-Gemini.git)
 
 
 ## Estatísticas
