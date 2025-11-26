@@ -22,9 +22,6 @@ Gosto de projetos limpos, código bem documentado e desafios novos.
   <a href="https://github.com/FelpsSds" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
-    <img alt="Email" src="josefelipe.dev06@gmail.com"/>
-  </a>
 </p>
 
 ---
