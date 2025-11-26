@@ -1,36 +1,35 @@
 <!-- Header -->
 <h1 align="left">👋 Olá, eu sou  José Felipe</h1>
 <p align="left">
-  <img src="C:\Users\Felipe\Pictures\Captura de tela 2025-11-26 182407.png" alt="foto" width="96" style="border-radius:50%">
-  <br>
+  
   <strong>Desenvolvedor Web • Front-end • Estudante de Java e C</strong>
 </p>
 
 ---
 
-## 🚀 Sobre
+##  Sobre:
 Sou desenvolvedor web focado em criar interfaces intuitivas e funcionais.  
 Estudo **Front-end (HTML, CSS, JavaScript, React)** e **Back-end (Java / Node.js)**.  
 Gosto de projetos limpos, código bem documentado e desafios novos.
 
 ---
 
-## 📫 Conecte-se
+## Conecte-se:
 <p>
-  <a href="LINKEDIN_URL" target="_blank">
+  <a href="www.linkedin.com/in/josé-felipe-silva-811020342" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/SEU_USERNAME" target="_blank">
+  <a href="https://github.com/FelpsSds" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:SEU_EMAIL">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="josefelipe.dev06@gmail.com"/>
   </a>
 </p>
 
 ---
 
-## 🧰 Stack Tecnológico
+## Stack Tecnológico:
 
 ### Front-end
 <p>
@@ -50,15 +49,12 @@ Gosto de projetos limpos, código bem documentado e desafios novos.
 
 ---
 
-## ⭐ Projetos em destaque
-- [BioScan](https://github.com/SEU_USERNAME/BioScan) — descrição curta do projeto.
-- [Projeto-X](https://github.com/SEU_USERNAME/projeto-x) — descrição curta.
+## Projetos em destaque
+- [BioScan](https://github.com/FelpsSds/BioScan.git)
+- [Projeto-X](https://github.com/FelpsSds/API-Gemini.git)
 
-> Dica: coloque um screenshot em cada repo e um link para `gh-pages` se tiver demo.
 
----
-
-## 📈 Estatísticas
+## Estatísticas
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark" alt="github stats" />
@@ -67,4 +63,4 @@ Gosto de projetos limpos, código bem documentado e desafios novos.
 
 ---
 
-<h4 align="left">💻 Sempre aprendendo. Sempre codando.</h4>
+<h4 align="left"> Sempre aprendendo. Sempre codando.</h4>
