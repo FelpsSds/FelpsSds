@@ -54,7 +54,7 @@ Gosto de projetos limpos, código bem documentado e desafios novos.
 ## Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelpsSds&show_icons=true&theme=dark" alt="github stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelpsSds&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelpsSds&layout=compact&theme=dark" alt="top langs" />
 </div>
 
