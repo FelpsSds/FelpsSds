@@ -53,6 +53,7 @@ Gosto de projetos limpos, código bem documentado e desafios novos.
 
 ## Estatísticas
 
+
 <div align="left">
   <img 
     height="180em" 
