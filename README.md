@@ -56,13 +56,14 @@ Gosto de projetos limpos, código bem documentado e desafios novos.
 <div align="left">
   <img 
     height="180em" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelpsSds&show_icons=true&theme=dark"
+    src="https://github-readme-stats-three-eta-20.vercel.app/api?username=FelpsSds&show_icons=true&theme=dark"
   />
   <img 
     height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelpsSds&layout=compact&theme=dark"
+    src="https://github-readme-stats-three-eta-20.vercel.app/api/top-langs/?username=FelpsSds&layout=compact&theme=dark"
   />
 </div>
+
 
 
 ---
