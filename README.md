@@ -1,80 +1,34 @@
-<!-- Header -->
-<h1 align="left">Hello, I'm José Felipe</h1>
+# 👋 Hello, I'm José Felipe!
+
 <p align="left">
+  <strong>Computer Science Student | Software Developer</strong>
+</p>
 
-<strong>Web Developer • Front-end • Java and C Student</strong>
+<p align="left">
+  Passionate about technology, software development and building solutions that make a difference.
+  <br>
+  Currently studying Computer Science and developing my skills in Front-end and Back-end development.
 </p>
 
 ---
 
-## About me:
-I'm a web developer focused on creating intuitive and functional interfaces.
+## 🚀 About Me
 
-I study **Front-end (HTML, CSS, JavaScript, React)** and **Back-end (Java / Node.js)**.
-
-I enjoy well-organized projects, well-documented code, and new challenges.
-
----
-
-## Connect:
-<p>
-
-<a href="https://www.linkedin.com/in/jos%C3%A9-felipe-silva-811020342" target="_blank">
-
-<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/FelpsSdS" target="_blank">
-
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+- 🎓 Computer Science student at Afya.
+- 💻 Interested in Web Development and Software Engineering.
+- 🌱 Currently learning **React, Go, Java and C**.
+- 🔍 I enjoy exploring new technologies and solving problems.
+- 🎯 Working towards becoming a professional software developer.
 
 ---
 
-## Technologies Used:
+## 🛠️ Tech Stack
 
 ### Front-end
 <p>
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36"/>
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36"/>
-<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36"/>
-<img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Backend / Others
+### Back-end & Programming Languages
 <p>
-<img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36"/>
-<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36"/>
-<img alt="Git" <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36"/>
-
-</p>
-
----
-
-## Featured projects
-- [BioScan](https://github.com/FelpsSds/BioScan.git)
-- [Gemini API](https://github.com/FelpsSds/API-Gemini.git)
-
-## Statistics
-
-<div align="left">
-
-<img 
-height="180em" 
-src="https://github-readme-stats-three-eta-20.vercel.app/api?username=FelpsSds&show_icons=true&theme=dark"
-
-/>
-
-<img 
-height="180em"
-
-src="https://github-readme-stats-three-eta-20.vercel.app/api/top-langs/?username=FelpsSds&layout=compact&theme=dark"
-
-/>
-</div>
-
----
-
-<h4 align="left"> Always learning. Always programming.</h4>
  
